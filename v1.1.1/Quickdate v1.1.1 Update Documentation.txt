@@ -1,0 +1,28 @@
+QuickDate v1.1.1 Update Documentation
+
+Note:
+
+This update is just for who is using 1.0
+
+// ------------------------------------- //
+
+1) How To Update
+
+- BACKUP, BACKUP, AND BACKUP everything, files, DATABASE.
+
+- Upload and overwrite ALL files/folders (SELECT ALL) file(s) located inside "Update Guide/v1.1.1/Script/" folder to your server, if you have renamed your theme, please open "Update Guide/v1.1.1/Script/themes/default/" and upload & overwrite ALL files/folders to your theme folder.
+
+- Refresh your page, Done!
+
+- For more information, please read our FAQ http://docs.playtubescript.com/#faq
+
+// ------------------------------------- //
+
+if you're facing any problems, please contact me so i can help.
+
+Last Update: 07/04/2019
+By: Deen Doughouz (DoughouzForest)
+Email: wowondersocial@gmail.com
+Website: https://quickdatescript.com/
+
+Copyright © 2018 QuickDate All rights reserved
